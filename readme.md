@@ -1,0 +1,1 @@
+The button for switching cameras is 'F'
